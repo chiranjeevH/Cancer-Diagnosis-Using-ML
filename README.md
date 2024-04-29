@@ -28,6 +28,7 @@ To evaluate the effectiveness of our models, we use the following metrics:
 
 <img width="440" alt="image" src="https://github.com/chiranjeevH/Cancer-Diagnosis-Using-ML/assets/65659686/11a108af-5260-4a52-a3ce-0e49b9d2f377">
 
+<img width="481" alt="image" src="https://github.com/chiranjeevH/Cancer-Diagnosis-Using-ML/assets/65659686/f90f2057-76d7-45a3-9979-4d0e03f53191">
 
 ## Conclusion
 The use of machine learning to automate mutation classification significantly accelerates the process of identifying actionable genetic alterations in cancer treatment, potentially leading to more personalized and timely therapeutic strategies.
