@@ -12,3 +12,6 @@ After a set of variety of experiments Random Forest gives better results compare
 <ul>Confusion Matrix</ul></li>
 
 
+<img width="467" alt="image" src="https://github.com/chiranjeevH/Cancer-Diagnosis-Using-ML/assets/65659686/11ccd3ba-2f7e-4377-aa58-a7e59daab51b">
+
+<img width="440" alt="image" src="https://github.com/chiranjeevH/Cancer-Diagnosis-Using-ML/assets/65659686/11a108af-5260-4a52-a3ce-0e49b9d2f377">
